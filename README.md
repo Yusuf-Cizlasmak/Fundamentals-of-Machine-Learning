@@ -18,10 +18,24 @@
 
 | Projects  |          Classification Algorithm          |           Links                 |
 |:---------:|:------------------------------:|:------------------------------------------:|
-|     *1*     |           KNN           |                  |
+|     *1*     |           K-NN           |                  |
 |     *2*     |           SVM                 |                   |
 |     *3*     |        Decision Tree        |             |
 |     *4*    |         Random Forest        |                    |
-|     5     |          CNN          |                 |
+|     5     |          Ensemble Learning          |                 |
 |     6     |          CatBoost Classifier                      |
 |     7     |          XGBoost Classifier                      |
+|     8     |          CNN                      |
+
+## Unsupervised Learning
+
+
+
+| Projects  |          Clustering         |                                          Links                 |
+|:---------:|:------------------------------:|:------------------------------------------:|
+|     *1*     |           K-Means         |                  |
+|     *2*     |           AgglomerativeClustering                 |                   |
+|     *3*     |                |             |
+
+
+
