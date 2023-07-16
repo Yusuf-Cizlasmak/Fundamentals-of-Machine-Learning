@@ -19,8 +19,8 @@
 | Projects  |          Classification Algorithm          |           Links                 |
 |:---------:|:------------------------------:|:------------------------------------------:|
 |     *1*     |           K-NN           |                  |
-|     *2*     |           SVM                 |                   |
-|     *3*     |        Decision Tree        |             |
+|     *2*     |           SVM                 |  [Support Vector Machine](https://github.com/Yusuf-Cizlasmak/Fundamentals-of-MachineLearning/blob/master/Supervised_Learning/Classification/SupporVectorMachine.ipynb)                                                     |
+|     *3*     |        Decision Tree        |  [Decision Tree](https://github.com/Yusuf-Cizlasmak/Fundamentals-of-MachineLearning/blob/master/Supervised_Learning/Classification/DecisionTree.ipynb)           |
 |     *4*    |         Random Forest        |                    |
 |     5     |          Ensemble Learning          |                 |
 |     6     |          CatBoost Classifier                      |
