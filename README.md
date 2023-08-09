@@ -21,11 +21,12 @@
 |     *1*     |           K-NN           |                  |
 |     *2*     |           SVM                 |  [Support Vector Machine](https://github.com/Yusuf-Cizlasmak/Fundamentals-of-MachineLearning/blob/master/Supervised_Learning/Classification/SupporVectorMachine.ipynb)                                                     |
 |     *3*     |        Decision Tree        |  [Decision Tree](https://github.com/Yusuf-Cizlasmak/Fundamentals-of-MachineLearning/blob/master/Supervised_Learning/Classification/DecisionTree.ipynb)           |
-|     *4*    |         Random Forest        |                    |
-|     5     |          Ensemble Learning          |                 |
-|     6     |          CatBoost Classifier                      |
-|     7     |          XGBoost Classifier                      |
-|     8     |          CNN                      |
+|     *4*    |         Logistic Regression        |                    |
+|     *5*    |         Random Forest        |                    |
+|     6     |          Ensemble Learning          |                 |
+|     7     |          CatBoost Classifier                      |
+|     8     |          XGBoost Classifier                      |
+|     9     |          CNN                      |
 
 ## Unsupervised Learning
 
