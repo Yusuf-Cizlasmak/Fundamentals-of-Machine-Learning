@@ -26,7 +26,7 @@
 |     6     |          Ensemble Learning          |                 |
 |     7     |          CatBoost Classifier                      |
 |     8     |          XGBoost Classifier                      |
-|     9     |          LGBMClassifier                      |
+|     9     |          LGBMClassifier                      | [LGBMClassifier](https://github.com/Yusuf-Cizlasmak/Fundamentals-of-Machine-Learning/blob/master/Supervised_Learning/Classification/lgbmclassifier-eda.ipynb)
 
 ## Unsupervised Learning
 
