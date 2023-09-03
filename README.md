@@ -26,7 +26,7 @@
 |     6     |          Ensemble Learning          |                 |
 |     7     |          CatBoost Classifier                      |
 |     8     |          XGBoost Classifier                      |
-|     9     |          CNN                      |
+|     9     |          LGBMClassifier                      |
 
 ## Unsupervised Learning
 
