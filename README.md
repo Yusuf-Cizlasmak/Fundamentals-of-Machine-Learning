@@ -24,7 +24,7 @@
 |     *4*    |         Logistic Regression        |  [Logistic Regression](https://github.com/Yusuf-Cizlasmak/Fundamentals-of-Machine-Learning/blob/master/Supervised_Learning/Classification/LogisticRegression.ipynb)                  |
 |     *5*    |         Random Forest        |                    |
 |     6     |          Ensemble Learning          |                 |
-|     7     |          CatBoost Classifier                      |
+|     7     |          CatBoost Classifier                      |[CatBoost Classifier](https://github.com/Yusuf-Cizlasmak/Fundamentals-of-Machine-Learning/blob/master/Supervised_Learning/Classification/catboost-eda-adasyn(1).ipynb)
 |     8     |          XGBoost Classifier                      |
 |     9     |          LGBMClassifier                      | [LGBMClassifier](https://github.com/Yusuf-Cizlasmak/Fundamentals-of-Machine-Learning/blob/master/Supervised_Learning/Classification/lgbmclassifier-eda.ipynb)
 
