@@ -22,7 +22,7 @@
 |     *2*     |           SVM                 |  [Support Vector Machine](https://github.com/Yusuf-Cizlasmak/Fundamentals-of-Machine-Learning/blob/master/Supervised_Learning/Classification/SupporVectorMachine.ipynb)                                                     |
 |     *3*     |        Naive Bayes       |  [Naive Bayes](https://github.com/Yusuf-Cizlasmak/Fundamentals-of-Machine-Learning/blob/master/Supervised_Learning/Classification/Naive_Bayes.ipynb)           |
 |     *4*    |         Logistic Regression        |  [Logistic Regression](https://github.com/Yusuf-Cizlasmak/Fundamentals-of-Machine-Learning/blob/master/Supervised_Learning/Classification/LogisticRegression.ipynb)                  |
-|     *5*    |         Random Forest        |                    |
+|     *5*    |         Decision Tree        |                    |
 |     6     |          Ensemble Learning          |                 |
 |     7     |          CatBoost Classifier                      |[CatBoost Classifier](https://github.com/Yusuf-Cizlasmak/Fundamentals-of-Machine-Learning/blob/master/Supervised_Learning/Classification/catboost-eda-adasyn(1).ipynb)
 |     8     |          XGBoost Classifier                      |
